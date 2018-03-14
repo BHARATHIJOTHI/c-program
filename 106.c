@@ -2,9 +2,9 @@
 
 
 int main(void) {
-	int n;
-	scanf("%d",&n);
-	n=n+64;
-	printf("%c",n);
+	int k;
+	scanf("%d",&k);
+	k=k+64;
+	printf("%c",k);
 	return 0;
 }
